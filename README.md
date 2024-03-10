@@ -68,6 +68,8 @@
 	You can find out more about shift registers, consult the datasheet for 74HC595N. 
 	You will be using the LCD in 4-bit mode. You will need to write a driver for the LCD onj STM32 including initialisation of the LCD 
         by following the instructions on the datasheet LCD.
+
+       Further information about hardware setup can be found on the RE_Module_Lab_Hardware.docx which can be found under project directory.
 	***************************************************************************/
  
 
